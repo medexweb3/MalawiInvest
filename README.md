@@ -1,2 +1,2 @@
 # MalawiInvest
-Stock Trading Simulation App 
+Malawi Stock Trading Simulation App 
