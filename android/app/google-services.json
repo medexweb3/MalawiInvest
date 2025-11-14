@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "570276633475",
+    "project_id": "malawi-invest",
+    "storage_bucket": "malawi-invest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570276633475:android:849503309311c98b96f4b6",
+        "android_client_info": {
+          "package_name": "com.example.malawi_invest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCagnE5moPz6YyACiElewdH-_aRPMuO6LE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
